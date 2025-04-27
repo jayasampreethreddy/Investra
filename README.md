@@ -161,26 +161,6 @@ FinAgents_Suite/
   - Contains predefined tasks for stock analysis, financial analysis, filings analysis, and investment recommendations. Each task leverages the multi-agent system for comprehensive analysis, ensuring that users receive well-informed and data-driven insights.
 
 
-## Acknowledgements
-Special thanks to all contributors and the open-source community for their invaluable support.
-- [Crew AI](https://www.crewai.com/)
-- [Streamlit](https://streamlit.io/)
-- [NVIDIA](https://www.nvidia.com/)
-- [LangChain](https://www.langchain.com/) [Yahoo Finance](https://python.langchain.com/v0.2/docs/integrations/tools/yahoo_finance_news/)
-- [Serper](https://serper.dev/)
-- [Scrapping Ant](https://app.scrapingant.com/dashboard)
 
-
-
-## License
-This project is licensed under the [MIT License](https://github.com/SaurabhBadole/FinAgents-Suite?tab=MIT-1-ov-file#) - see the LICENSE file for details.
-
-
-## Contributing
-Contributions are welcome! Please extend your contributions by forking the repository and submitting pull requests to contribute.
-
-
-## Contact
-For any queries or further information, please contact us at [Saurabh Khushal Badole](saurabhbadole25.98@gmail.com)
 
 For access to the private AWS ECR and Docker repository for project demo/trial, please reach out via same contact window above.
