@@ -2,11 +2,6 @@
 
 Welcome to FinAgents Suite, your ultimate financial decision-making platform. Our suite of advanced tools helps you derive strategic Investment plans, assess Credit Risk, and forecast Earnings Per Share (EPS) with confidence. Our sophisticated multi-agent system leverages advanced machine learning algorithms and large language models (LLMs) to provide precise and actionable financial insights.
 
-## Overview
-
-The FinAgents Suite is designed to provide comprehensive Financial Analysis and decision-making capabilities through various modules:![FinAgents_Suite](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/e442eeb3-a20e-4c2d-ae29-250cb0d1d062)
-
-
 
 ### MultiAgent Finance Consultant🔍
 
@@ -22,14 +17,13 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 ## Features
 
-- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
+- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.
+  - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.
 
-  - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.![FinAgents_conversation](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/b25d215d-b75d-4f3b-875a-c3fb56244307)
 
+- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.
 
-- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
-
-- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/0aefcfd5-19ad-46ec-8517-05735037b5c8)
+- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data
 
 
 
@@ -44,35 +38,21 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 ### Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/SaurabhBadole/FinAgents-Suite.git
-    cd FinAgents-Suite
-    ```
+   
 
 2. Create and activate a virtual environment:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
+   
 
 3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+  
 
 4. Set up your environment variables by creating a `.env` file in the root directory and adding your API keys:
-    ```sh
-    NVIDIA_API_KEY=<your_nvidia_api_key>                  #https://build.nvidia.com/explore/discover#llama3-70b
-    SERPER_API_KEY=<your_serper_api_key>                  #https://serper.dev/
-    SCRAPINGANT_API_KEY=<your_scrapingant_api_key>        #https://app.scrapingant.com/
-    ```
+    
 
 ### Running the Application
 
 Run the main file to start the application:
-```sh
-streamlit run FinAgents_Suite.py
-```
+`
 
 
 
@@ -163,4 +143,4 @@ FinAgents_Suite/
 
 
 
-For access to the private AWS ECR and Docker repository for project demo/trial, please reach out via same contact window above.
+
